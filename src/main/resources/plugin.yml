@@ -1,0 +1,9 @@
+name: Zero
+version: '${project.version}'
+main: me.channy7123.zero.Zero
+api-version: 1.19
+authors: [ channy7123 ]
+
+commands:
+  zero:
+  state:
